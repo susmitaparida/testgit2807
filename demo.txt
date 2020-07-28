@@ -1,0 +1,3 @@
+ithis file is to check the diff
+
+git commit done and trying to editing the file to chk the diff
