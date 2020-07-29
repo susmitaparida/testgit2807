@@ -1,1 +1,6 @@
 hfgfddhfjfdhjdf
+
+practical for git reset at local repository.
+added 3rd line
+welcome
+
